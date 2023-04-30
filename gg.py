@@ -1,9 +1,3 @@
-''' 
-    seletct your from location List
-    select your destinaation
-
-
-'''
 
 import random
 
